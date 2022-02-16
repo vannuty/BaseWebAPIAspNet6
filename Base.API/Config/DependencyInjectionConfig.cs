@@ -1,7 +1,7 @@
-﻿using Base.Domain.Services;
-using Base.Domain.Services.Intefaces;
+﻿using Base.Domain.Intefaces.Services;
+using Base.Domain.Services;
+using Base.Infrastructure.Interfaces.Repositories;
 using Base.Infrastructure.Repositories;
-using Base.Infrastructure.Repositories.Interfaces;
 
 namespace Base.API.Config
 {

@@ -1,5 +1,5 @@
-﻿using Base.Domain.Services.Intefaces;
-using Base.Infrastructure.Repositories.Interfaces;
+﻿using Base.Domain.Intefaces.Services;
+using Base.Infrastructure.Interfaces.Repositories;
 using BaseLibrary.Entities;
 using BaseLibrary.ViewModel;
 

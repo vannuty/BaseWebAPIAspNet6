@@ -1,7 +1,7 @@
 ﻿using BaseLibrary.Entities;
 using BaseLibrary.ViewModel;
 
-namespace Base.Domain.Services.Intefaces
+namespace Base.Domain.Intefaces.Services
 {
     public interface IServiceTodo
     {

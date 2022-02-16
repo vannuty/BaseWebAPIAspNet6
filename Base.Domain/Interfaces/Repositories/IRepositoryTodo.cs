@@ -1,7 +1,7 @@
 ﻿using BaseLibrary.Entities;
 using BaseLibrary.Interfaces;
 
-namespace Base.Infrastructure.Repositories.Interfaces
+namespace Base.Infrastructure.Interfaces.Repositories
 {
     public interface IRepositoryTodo : IRepository<Todo>
     {

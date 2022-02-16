@@ -1,6 +1,6 @@
 ﻿using Base.Domain.Services;
+using Base.Infrastructure.Interfaces.Repositories;
 using Base.Infrastructure.Mocks;
-using Base.Infrastructure.Repositories.Interfaces;
 using FluentAssertions;
 using Moq;
 using System.Linq;

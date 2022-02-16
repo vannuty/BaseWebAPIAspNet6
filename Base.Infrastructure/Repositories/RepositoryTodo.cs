@@ -1,5 +1,5 @@
 ﻿using Base.Infrastructure.Context;
-using Base.Infrastructure.Repositories.Interfaces;
+using Base.Infrastructure.Interfaces.Repositories;
 using BaseLibrary.Entities;
 using Microsoft.EntityFrameworkCore;
 

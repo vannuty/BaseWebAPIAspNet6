@@ -1,4 +1,4 @@
-﻿using Base.Domain.Services.Intefaces;
+﻿using Base.Domain.Intefaces.Services;
 using BaseLibrary.Controllers;
 using BaseLibrary.Entities;
 using BaseLibrary.ViewModel;
